@@ -14,4 +14,6 @@ class test1 {
     //put your code here
 }
 
+
+echo "test lagi";
 ?>
